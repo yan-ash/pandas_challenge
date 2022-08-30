@@ -8,4 +8,4 @@ Part 5 and part 6 : It summarises the students' performance in math and reading 
 Part 7 :Genarally, it shows us that the schools have higher budget for each student tend to have higher scores. 
 
 Part 8: We could tell that the school size does not play an important role on school scores.
-Part 9: The data shows us that indepndent schools  performed better than government schools academically. 
+Part 9: The data shows us that indepndent schools  perform better than government schools academically. 
